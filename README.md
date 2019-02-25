@@ -13,3 +13,6 @@ New Characters: 家 这 爸 妈 都 爱 是 和 三
 
 ### Lesson 4 : How old are you 你几岁
 New Characters: 四 五 六 七 八 九 十 几 岁 也
+
+### Lesson 5 : Brother and Sister 哥哥和姐姐
+New Characters: 男 女 孩 今 年 哥 姐 他 她 零
