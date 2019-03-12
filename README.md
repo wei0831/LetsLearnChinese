@@ -19,3 +19,6 @@ New Characters: 男 女 孩 今 年 哥 姐 他 她 零
 
 ### Lesson 6 : What Day Is Today 
 New Characters: 日 月 天 星 期 明 号 有 个 昨
+
+### Lesson 7 : What Time Is It Now?
+New Characters: 现 在 点 分 们 上 下 课 再 见 了
