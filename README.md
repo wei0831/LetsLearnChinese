@@ -3,7 +3,7 @@
 ## Simplified Chinese Lesson Outline
 
 ### Lesson 1 : Hello 你好
-New Characters: 你 好 我 老 师 很 嗎 一
+New Characters: 你 好 我 老 师 很 吗 一
 
 ### Lesson 2 : What's your name? 问名字
 New Characters: 什 麼 名 字 的 叫 二
@@ -22,3 +22,6 @@ New Characters: 日 月 天 星 期 明 号 有 个 昨
 
 ### Lesson 7 : What Time Is It Now?
 New Characters: 现 在 点 分 们 上 下 课 再 见 了
+
+### Lesson 8 : Nice To Meet You
+New Characters: 那 谁 认 识 朋 友 高 兴 同 学
