@@ -25,3 +25,6 @@ New Characters: 现 在 点 分 们 上 下 课 再 见 了
 
 ### Lesson 8 : Nice To Meet You.
 New Characters: 那 谁 认 识 朋 友 高 兴 同 学
+
+### Lesson 9 : Thank you and Sorry.
+New Characters: 谢 不 客 气 对 起 没 关 系 意 思 请 问
