@@ -1,12 +1,12 @@
 # Let's Learn Chinese
+Simplified Chinese Lesson Outline
 
-## Simplified Chinese Lesson Outline
-
+# UNIT 1
 ### Lesson 1 : Hello.
 New Characters: 你 好 我 老 师 很 吗 一
 
 ### Lesson 2 : What's Your Name?
-New Characters: 什 麼 名 字 的 叫 二
+New Characters: 什 么 名 字 的 叫 二
 
 ### Lesson 3 : My Family.
 New Characters: 家 这 爸 妈 都 爱 是 和 三
@@ -26,5 +26,8 @@ New Characters: 现 在 点 分 们 上 下 课 再 见 了
 ### Lesson 8 : Nice To Meet You.
 New Characters: 那 谁 认 识 朋 友 高 兴 同 学
 
-### Lesson 9 : Thank you and Sorry.
+### Lesson 9 : Thank You and Sorry.
 New Characters: 谢 不 客 气 对 起 没 关 系 意 思 请 问
+
+### Lesson 10 : What Are You Doing?
+New Characters: 做 看 电 视 影 玩 脑 打 话 呢
