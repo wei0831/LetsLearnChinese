@@ -1,7 +1,7 @@
 # Let's Learn Chinese
 Simplified Chinese Lesson Outline
 
-# UNIT 1
+## UNIT 1
 ### Lesson 1 : Hello.
 New Characters: 你 好 我 老 师 很 吗 一
 
@@ -33,3 +33,9 @@ New Characters: 谢 不 客 气 对 起 没 关 系 意 思 请 问
 New Characters: 做 看 电 视 影 玩 脑 打 话 呢
 
 ### Lesson 11 : Review
+  
+<br/>  
+ 
+## INFO
+Author: Jack Chang  
+Created using Adobe InDesign
